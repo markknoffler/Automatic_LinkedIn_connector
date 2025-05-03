@@ -17,31 +17,8 @@ A Streamlit-based Retrieval-Augmented Generation (RAG) platform that lets users 
 - **Vector Store:** Chroma  
 - **OCR:** pytesseract, Pillow  
 - **Browser Automation:** Selenium WebDriver, DuckDuckGo search fallback  
-- **Data Formats:** JSON, plain text  
-
-## Repo Structure
-```
-.
-├── data/                   # Uploaded PDFs
-├── images/                 # Uploaded images
-├── excel/                  # Uploaded spreadsheets
-├── voice/                  # Uploaded audio files
-├── parsed/                 # Combined raw text (overview)
-│   └── all_extracted.txt
-├── json/                   # Summaries and structured JSON
-│   └── summary_main.json
-├── chroma/                 # Persisted Chroma vector store
-├── personalised_message/   # Drafted LinkedIn notes
-├── final_app.py            # Streamlit application
-├── overview.py             # Extract raw text from PDFs & images
-├── full_summarised_archietecture.py  # JSON structuring via Ollama
-├── full_summarisation.py   # Detailed summarization pipeline
-├── final_chroma_integration.py        # Builds Chroma DB from JSON
-├── final_linkedin_connection.py       # Automates LinkedIn flows
-├── get_embedding_function.py         # Embedding helper
-└── README.md
-```
-
+- **Data Formats:** JSON, plain text
+  
 ## Installation
 1. Clone the repo:  
    ```bash
