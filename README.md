@@ -57,6 +57,6 @@ A Streamlit-based Retrieval-Augmented Generation (RAG) platform that lets users 
 - Ollama model and host can be configured in code (`Ollama(model="llama3")`).  
 - Update LinkedIn credentials in `final_linkedin_connection.py` before use.
 
-##please properly update the paths in final_app.py for everything to work
+## please properly update the paths in final_app.py for everything to work
 
 
