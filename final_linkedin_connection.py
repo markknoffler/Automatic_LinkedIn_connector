@@ -12,7 +12,7 @@ from duckduckgo_search import DDGS
 
 # --- CREDENTIALS ---
 LINKEDIN_EMAIL = "5pszqchzyc@privaterelay.appleid.com"
-LINKEDIN_PASSWORD = "Exiled@NK123"
+LINKEDIN_PASSWORD = "Your Password"
 
 
 def human_delay(min_sec=2, max_sec=5):
