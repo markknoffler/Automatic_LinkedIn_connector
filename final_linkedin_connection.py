@@ -11,7 +11,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 from duckduckgo_search import DDGS
 
 # --- CREDENTIALS ---
-LINKEDIN_EMAIL = "5pszqchzyc@privaterelay.appleid.com"
+LINKEDIN_EMAIL = "Your LinkedIn Email"
 LINKEDIN_PASSWORD = "Your Password"
 
 
