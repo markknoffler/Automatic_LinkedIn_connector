@@ -2,7 +2,7 @@
 
 ## 📚 Overview
 
-**MIT Connection Juris AI** is an intelligent, end-to-end workflow for extracting, summarizing, and interacting with information from event documents (PDFs, images, Excel, and voice files). It leverages advanced LLMs (Ollama/Llama3), vector search (Chroma), and automation (Selenium) to:
+**Automatic LinkedIn Connector** is an intelligent, end-to-end workflow for extracting, summarizing, and interacting with information from event documents (PDFs, images, Excel, and voice files). It leverages advanced LLMs (Ollama/Llama3), vector search (Chroma), and automation (Selenium) to:
 
 - **Extract** text from PDFs and images using OCR.
 - **Summarize** and structure event and participant data into JSON using LLMs.
