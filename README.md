@@ -1,4 +1,4 @@
-# MIT Connection Juris AI
+# Automatic LinkedIn Connector
 
 ## 📚 Overview
 
