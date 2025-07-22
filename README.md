@@ -15,7 +15,7 @@
 ## 🏗️ Project Structure
 
 ```
-MIT_connection_juris/
+Automatic_LinkedIn_Connector/
 │
 ├── data/                  # Place your PDFs here
 │   └── data.txt           # (placeholder)
@@ -49,7 +49,7 @@ MIT_connection_juris/
 
 ```bash
 git clone <your-repo-url>
-cd MIT_connection_juris
+cd Automatic_LinkedIn_Connector
 ```
 
 ### 2. **Install Python dependencies**
