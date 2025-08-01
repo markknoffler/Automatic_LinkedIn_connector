@@ -76,7 +76,7 @@ with col4:
         subprocess.Popen(["python3", FINAL_CHROMA_SCRIPT])
         st.success("final_chroma_integration.py started")
 
-st.title("Juris AI: Upload, Summarize & Chat")
+st.title("LinkedIn connector: Upload, Summarize & Chat")
 
 # ── Sidebar: File Uploaders ───────────────────────────────────────────────────
 with st.sidebar:
