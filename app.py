@@ -59,7 +59,7 @@ def query_rag(question: str):
     return reply, raw_json
 
 # ── Streamlit App ─────────────────────────────────────────────────────────────
-st.set_page_config(page_title="Juris AI", layout="wide")
+st.set_page_config(page_title="LinkedIn connector", layout="wide")
 
 # Top-right buttons
 col1, col2, col3, col4 = st.columns([4,1,1,1])
