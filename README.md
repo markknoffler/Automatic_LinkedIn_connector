@@ -1,7 +1,6 @@
 # Automatic LinkedIn Connector
 
-![Uploading Screenshot 2025-08-02 at 1.42.15 AM.png…]()
-
+![LinkedIn_connector](https://github.com/user-attachments/assets/21cd14ce-674e-41aa-aef7-422e2e961a9e)
 
 ## 📚 Overview
 
